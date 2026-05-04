@@ -10,3 +10,8 @@ Win/lose detection
 C# (.NET)
 Windows Forms (WinForms)
 Visual Studio
+# How to Run
+Clone the repository:
+Bash
+Open Hangman.sln in Visual Studio
+Press F5 to run
