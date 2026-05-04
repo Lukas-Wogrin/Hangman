@@ -13,5 +13,6 @@ Visual Studio
 # How to Run
 Clone the repository:
 Bash
+git clone https://github.com/Lukas-Wogrin/hangman.git
 Open Hangman.sln in Visual Studio
 Press F5 to run
